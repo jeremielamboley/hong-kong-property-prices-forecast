@@ -35,14 +35,14 @@ If you do not have Python installed yet, it is highly recommended that you insta
 If you want to develop the project further:
 
 ```shell
-git clone https://github.com/jeremielamboley/hong-kong-property-prices-regression.git
-cd hong-kong-property-prices-regression/
+git clone https://github.com/jeremielamboley/hong-kong-property-prices-forecast.git
+cd hong-kong-property-prices-forecast/
 ```
 
 ## Links
 
-- Repository: https://github.com/jeremielamboley/hong-kong-property-prices-regression
-- Issue tracker: https://github.com/jeremielamboley/hong-kong-property-prices-regression/issues
+- Repository: https://github.com/jeremielamboley/hong-kong-property-prices-forecast
+- Issue tracker: https://github.com/jeremielamboley/hong-kong-property-prices-forecast/issues
   - In case of sensitive bugs like security vulnerabilities, please contact jeremie@lamboley.pro directly instead of using issue tracker. We value your effort to improve the security and privacy of this project!
 - Related projects:
   - My main gitHub page: https://github.com/jeremielamboley
